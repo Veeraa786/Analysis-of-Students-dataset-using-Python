@@ -1,2 +1,2 @@
-# Assessment2B
-Fetching the Students details..
+# Analysis of Students dataset using Python.
+Fetching the Students details.. And visualization the datas using Python Data Visualization
